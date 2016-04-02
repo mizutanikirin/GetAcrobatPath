@@ -1,0 +1,15 @@
+F:\c_calpis\source\source\AttachmentProject\RunNewApp\PortableDevices\obj\x86\Debug\CopyPictures.exe
+F:\c_calpis\source\source\AttachmentProject\RunNewApp\PortableDevices\obj\x86\Debug\CopyPictures.pdb
+F:\c_calpis\source\source\AttachmentProject\RunNewApp\PortableDevices\bin\Debug\CopyPictures.exe
+F:\c_calpis\source\source\AttachmentProject\RunNewApp\PortableDevices\bin\Debug\CopyPictures.pdb
+F:\c_calpis\source\source\AttachmentProject\RunNewApp\PortableDevices\obj\x86\Debug\RunNewApp.csprojResolveAssemblyReference.cache
+F:\c_calpis\source\source\AttachmentProject\_RunNewApp\PortableDevices\bin\Debug\RunNewApp.exe
+F:\c_calpis\source\source\AttachmentProject\_RunNewApp\PortableDevices\bin\Debug\RunNewApp.pdb
+F:\c_calpis\source\source\AttachmentProject\_RunNewApp\PortableDevices\obj\x86\Debug\RunNewApp.csprojResolveAssemblyReference.cache
+F:\c_calpis\source\source\AttachmentProject\_RunNewApp\PortableDevices\obj\x86\Debug\RunNewApp.exe
+F:\c_calpis\source\source\AttachmentProject\_RunNewApp\PortableDevices\obj\x86\Debug\RunNewApp.pdb
+F:\c_calpis\source\source\AttachmentProject\RunNewApp\RunNewApp\obj\x86\Debug\RunNewApp.exe
+F:\c_calpis\source\source\AttachmentProject\RunNewApp\RunNewApp\obj\x86\Debug\RunNewApp.pdb
+F:\c_calpis\source\source\AttachmentProject\RunNewApp\RunNewApp\bin\Debug\RunNewApp.exe
+F:\c_calpis\source\source\AttachmentProject\RunNewApp\RunNewApp\bin\Debug\RunNewApp.pdb
+F:\c_calpis\source\source\AttachmentProject\RunNewApp\RunNewApp\obj\x86\Debug\RunNewApp.csprojResolveAssemblyReference.cache
